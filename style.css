@@ -1,0 +1,48 @@
+      body{
+        position:relative;
+      }
+      #list-item-1{
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+      }
+      #jumbo{
+        margin-top: 50px;
+      }
+
+      #cards{
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-left: 150px;
+
+      }
+    
+
+    #img{
+      margin-top: -1px;
+      margin-left: -6px;
+      width: 300px;
+      border: 1px solid black;
+      border-radius: 20px;
+    }
+    #img{
+      
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 20px;
+    
+  }
+    #footer{
+      padding-top: -50px;
+      text-align: center;
+      background-color: rgb(121, 121, 243);
+    }
+    #space{
+      background-color: aquamarine;
+      height: 200px;
+    
+      font-style: italic;
+      text-align: center;
+      padding-top: 60px;
+      color: cornflowerblue;
+    }
